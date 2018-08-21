@@ -14,3 +14,6 @@ cd LaraVue-Compras
 ```
 ## Projeto demo rodando na plataforma Heroku:
 https://laravelvuejs-compras.herokuapp.com/
+
+### Screen
+<img src="https://github.com/IsraelXabregas/LaraVue-Compras/blob/master/Screen.png"/>
